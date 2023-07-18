@@ -8,10 +8,6 @@
 
 - Even more content
 - Facts
-- Opionions
-- Practice
-
-- Correction
-- Facts
 - Opinions
 - Practice
+
